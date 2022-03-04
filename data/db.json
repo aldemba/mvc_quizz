@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "prenom":"Abdoulaye",
+            "nom":"Mangane",
+            "login":"abmangane12@gmail.com",
+            "password":"jouer",
+            "role":"joueur",
+            "show":15
+        },
+        {
+            "prenom":"Laye",
+            "nom":"Mangane",
+            "login":"abmangane12@gmail.com",
+            "password":"admin",
+            "role":"admin",
+            "show":5
+        }
+    ],
+    "questions":[
+        {
+            "question":"Quelle est le meilleur langage de programmation ?",
+            "nombreDePpoint": 5,
+            "typeDeReponse":"chaine",
+            "reponse":"javascript"
+        },
+        {
+            "question":"En quelle année est née JavaScript ?",
+            "nombreDePpoint": 5,
+            "typeDeReponse":"nombre",
+            "reponse":1995
+        }
+    ]
+}
