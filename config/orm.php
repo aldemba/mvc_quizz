@@ -5,8 +5,7 @@
         $data = json_decode($dataJson,true);
         return $data[$key];
     }
-
-
+    
     function array_to_json(string $key, array $data){
         
     }

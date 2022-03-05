@@ -1,5 +1,4 @@
 <?php
-
 // définition de la constante qui pointe sur le dossier racine du projet
 define('ROOT',str_replace('public'.DIRECTORY_SEPARATOR.'index.php','',$_SERVER['SCRIPT_FILENAME']));
 
