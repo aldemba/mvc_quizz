@@ -4,17 +4,17 @@
             "prenom":"Abdoulaye",
             "nom":"Mangane",
             "login":"abmangane12@gmail.com",
-            "password":"jouer",
-            "role":"joueur",
-            "show":15
+            "password":"Joueur12",
+            "role":"role_joueur",
+            "score":15
         },
         {
             "prenom":"Laye",
             "nom":"Mangane",
             "login":"abmangane12@gmail.com",
-            "password":"admin",
-            "role":"admin",
-            "show":5
+            "password":"Admin14",
+            "role":"role_joueur",
+            "score":5
         }
     ],
     "questions":[
